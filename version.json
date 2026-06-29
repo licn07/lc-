@@ -2,5 +2,5 @@
   "versionCode": 31,
   "versionName": "3.1",
   "apkUrl": "https://github.com/licn07/lc-/releases/download/v3.0/Ic.apk",
-  "updateLog": "更新内容：\n1. 新增卡图页面\n2. 优化复制稳定性\n3. 修复若干bug"
+  "updateLog": "更新内容：\n1. 新增版本检测，有新版本时自动弹出更新\n2. 优化使用体验\n3. 修复已知bug有任何问题记得反馈"
 }
